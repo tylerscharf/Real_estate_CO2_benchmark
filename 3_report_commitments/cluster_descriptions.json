@@ -1,0 +1,122 @@
+[
+  {
+    "cluster": 0,
+    "size": 60,
+    "top_terms": [
+      "net",
+      "net zero",
+      "zero",
+      "2050",
+      "emissions",
+      "carbon",
+      "zero 2050",
+      "ambition",
+      "zero carbon",
+      "assets"
+    ],
+    "examples": [
+      "The Shanghai Fengxian Lingang Logistics Park, VX Logistics’s first pilot park of carbon management platform, opened on 18 April 2023. It is the first ...",
+      "Climate Change Actions Accelerating Towards Net Zero..."
+    ]
+  },
+  {
+    "cluster": 1,
+    "size": 795,
+    "top_terms": [
+      "sustainability",
+      "management",
+      "sustainable",
+      "2023",
+      "environmental",
+      "business",
+      "development",
+      "quality",
+      "safety",
+      "year"
+    ],
+    "examples": [
+      "This report contains forward-looking statements, including but not limited to words or phrases, such as “will”, “expects”, “forecasts”, “future”, “aim...",
+      "In 2023, we continued to forge ahead in compliant operation and integrate sustainable development into every detail of our operations...."
+    ]
+  },
+  {
+    "cluster": 2,
+    "size": 89,
+    "top_terms": [
+      "climate",
+      "change",
+      "climate change",
+      "risks",
+      "opportunities",
+      "climate related",
+      "related",
+      "risks opportunities",
+      "risk",
+      "related risks"
+    ],
+    "examples": [
+      "Integrate comprehensive sustainability-related risks, such as climate risk, into enterprise risk management....",
+      "Identifying opportunities brought about by climate change Setting management metrics and targets for climate change response..."
+    ]
+  },
+  {
+    "cluster": 3,
+    "size": 216,
+    "top_terms": [
+      "green",
+      "leed",
+      "projects",
+      "development",
+      "buildings",
+      "building",
+      "certification",
+      "carbon",
+      "certifications",
+      "gold"
+    ],
+    "examples": [
+      "Vanke has long been committed to promoting green and low-carbon development and leading the industry....",
+      "Vanke has never ceased to explore green and low-carbon development...."
+    ]
+  },
+  {
+    "cluster": 4,
+    "size": 179,
+    "top_terms": [
+      "energy",
+      "consumption",
+      "water",
+      "reduction",
+      "energy consumption",
+      "portfolio",
+      "efficiency",
+      "million",
+      "renewable",
+      "usage"
+    ],
+    "examples": [
+      "Through a range of technical measures, including building energy conservation, renewable energy utilisation, water conservation, and solid waste recyc...",
+      "Continuously promoting the energy-saving and consumption-reducing transformation of facilities and equipment..."
+    ]
+  },
+  {
+    "cluster": 5,
+    "size": 108,
+    "top_terms": [
+      "emissions",
+      "scope",
+      "ghg",
+      "scope emissions",
+      "ghg emissions",
+      "carbon",
+      "2020",
+      "gas",
+      "year",
+      "reduction"
+    ],
+    "examples": [
+      "The Company set key ESG targets covering greenhouse gas emissions, waste management, and resource use....",
+      "By 2030, the carbon emissions of at least 20 shopping centres to be reduced by 9% against a 2021 baseline...."
+    ]
+  }
+]
