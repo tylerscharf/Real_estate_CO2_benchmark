@@ -75,13 +75,11 @@ Combine forecast results with macro carbon intensity to see if the company's tra
 ### Notebook 3: Text Parsing & Commitments Classification
 [Link to notebook 3](3_report_commitments.ipynb)
 
-## Contact and Further Information
-- **Name**: [Your Name]
-- **Email**: [Email Address]
-- **LinkedIn**: [Your LinkedIn URL]
-
 ## Potential Shortfalls / Limitations
 - **Data Completeness**: Missing or approximate GDP share data for construction/real estate may lead to less precise sector-level estimates
 - **Scope 3 Complexity**: Many real estate supply-chain emissions are still not fully tracked
 - **Text Classification**: Reliant on consistent ESG report wording; potential misclassification if phrases are vague
 - **Assumption Sensitivity**: Forecasts are scenario-based; actual outcomes may vary with policy changes or technology shifts
+
+Tyler Scharf
+https://www.linkedin.com/in/tyler-scharf/
